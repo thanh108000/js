@@ -1,0 +1,54 @@
+.card-body {
+    background-image: url("/image/Rectangle\ 10.png");
+    
+}
+.khung {
+    width: 91%;
+    height: 331px;
+    background-image: url("./image/unsplash_2lWGQ02DGL8.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.khungbu {
+    width: 100%;
+    height: 500px;
+    background-color: #fff9ea;
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.daugach {
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.khunghero {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-image: url("./image/Rectangle\ 8.png");
+    margin-top: 20px;
+}
+.nuttronghero {
+    margin-top: 20px;
+}
+.chutronghero {
+    width: 100%;
+    height: 190px;
+}
+.Rectangle {
+background-color: #f8f9fa;
+  border-radius: 15px;
+  padding: 30px;
+  max-width: 500px;
+  margin: 0 auto;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+.stars {
+  color: #FFD700; 
+}
